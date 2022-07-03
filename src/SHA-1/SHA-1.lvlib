@@ -11,5 +11,5 @@
 	<Item Name="SHA-1.vi" Type="VI" URL="../SHA-1.vi"/>
 	<Item Name="SHA-1 (String).vi" Type="VI" URL="../SHA-1 (String).vi"/>
 	<Item Name="SHA-1 (File).vi" Type="VI" URL="../SHA-1 (File).vi"/>
-	<Item Name="SHA-1.lvclass" Type="LVClass" URL="../class/SHA-1.lvclass"/>
+	<Item Name="SHA-1.lvclass" Type="LVClass" URL="../SHA-1.lvclass"/>
 </Library>

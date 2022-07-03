@@ -12,7 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="SHA-1.lvlib" Type="Library" URL="../src/SHA-1.lvlib"/>
+		<Item Name="SHA-1.lvlib" Type="Library" URL="../SHA-1.lvlib"/>
 		<Item Name="Test Vectors (SHA-1).vi" Type="VI" URL="../Test Vectors (SHA-1).vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
