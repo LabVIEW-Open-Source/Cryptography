@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2022-07-04 17:52:03" Creator="Francois Normandin" Comments="" ID="3627dadfaff7f0066a10b1b4ea808cfe">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2022-07-04 22:51:07" Creator="Francois Normandin" Comments="" ID="1e5850485724a7d9e32ba3361b0f8dc1">
   <Library_General_Settings>
     <Package_File_Name>lvos_lib_cryptography</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.1.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>src</Library_Source_Folder>
     <Library_Output_Folder>_builtpackages</Library_Output_Folder>
@@ -231,7 +231,7 @@ SHA-1 (RFC 3174)</Release_Notes>
         <Path>src\unnamed</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>09F0D3A54F21A3D23952C115B51155B6</GUID>
+      <GUID>47E83A6077D4AF28936573649BAFCB9D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -350,7 +350,7 @@ SHA-1 (RFC 3174)</Release_Notes>
         <Path>src\SHA-1\Test Vectors (SHA-1).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9FB1EF5955F71601800966D5C6761B74</GUID>
+      <GUID>6C41175391F86F7B780EA3CE21E07E62</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -427,7 +427,7 @@ SHA-1 (RFC 3174)</Release_Notes>
         <Path>src\SHA-1</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BE1FF6E6686215A8FE8714981339AB8C</GUID>
+      <GUID>BF93C9277905158A01B4823DB0D9D2B4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -602,7 +602,7 @@ SHA-1 (RFC 3174)</Release_Notes>
         <Path>src\MD5\pad.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9DAE142E8A6218C8CD56B16B2D07F5ED</GUID>
+      <GUID>1191BA543AAF3320CE01D4D8D0FE23CB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -679,7 +679,7 @@ SHA-1 (RFC 3174)</Release_Notes>
         <Path>src\MD5\MD5 (String).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>44BDD556640927076D70D21D1E3287FA</GUID>
+      <GUID>52A0A396A6C5C872ECFB503056EB13B0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
