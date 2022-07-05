@@ -14,6 +14,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="benchmarks_fileMD5.vi" Type="VI" URL="../../benchmarks_fileMD5.vi"/>
 		<Item Name="benchmarks_largeBinaryMD5.vi" Type="VI" URL="../../benchmarks_largeBinaryMD5.vi"/>
+		<Item Name="benchmarks_smallBinaryMD5.vi" Type="VI" URL="../../benchmarks_smallBinaryMD5.vi"/>
 		<Item Name="MD5.lvlib" Type="Library" URL="../MD5.lvlib"/>
 		<Item Name="Test Vectors (MD5).vi" Type="VI" URL="../Test Vectors (MD5).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
